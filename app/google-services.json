@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243797669489",
+    "firebase_url": "https://flight-mode-e5f2f.firebaseio.com",
+    "project_id": "flight-mode-e5f2f",
+    "storage_bucket": "flight-mode-e5f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243797669489:android:6c581864f67a35e58bcdd0",
+        "android_client_info": {
+          "package_name": "com.rotem.flightmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243797669489-1e2di0q7qh3nn6o3ctqi0dfb29hsrs8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0_2a-NjB9kB36gmekAzPb4yf3D0bkD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243797669489-1e2di0q7qh3nn6o3ctqi0dfb29hsrs8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
